@@ -16,8 +16,6 @@
 
 <p align="center">Outside of coding, I enjoy music, astronomy, and exploring new ideas in science and technology 🌌</p>
 
-<div align="center">
-<img align="center" alt="cat" src="https://media.tenor.com/cyihBXf6WOQAAAAi/llorando.gif" width="200">
-</div>
+
 
 
