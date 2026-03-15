@@ -2,7 +2,7 @@
 
 -  I'm an undergraduate student in **Statistics** at **Mawlana Bhashani Science and Technology University (MBSTU)**
 -  I'm passionate about **Data Science**, **Machine Learning**, and **Time Series Analysis**
--  Currently exploring **spatial data visualization**, **forecasting models (SARIMAX, ARIMAX)**, and **climate analytics**
+-  Currently exploring **spatial data visualization**, **forecasting models **, and **climate analytics**
 -  I'm looking to collaborate on **data-driven research projects**, **machine learning applications**, or **open-source tools in R/Python**
 -  Ask me about **R, Python, statistics, and research workflows**
 
