@@ -7,7 +7,7 @@
 -  Ask me about **R, Python, statistics, and research workflows**
 
 <div align="center">
-<img align="center" src="https://media.licdn.com/dms/image/v2/D5603AQEC2dmBKEvBwA/profile-displayphoto-crop_800_800/B56Zt_AJ7nJMAI-/0/1767362312126?e=1774483200&v=beta&t=WWtc0ry9y1Ay9b0tPtF-b-S6hD72xKwh5gdMNmBVq1Y" width="180" height="180" style="border-radius: 50%;">
+<img align="center" src="[https://media.licdn.com/dms/image/v2/D5603AQEC2dmBKEvBwA/profile-displayphoto-crop_800_800/B56Zt_AJ7nJMAI-/0/1767362312126?e=1774483200&v=beta&t=WWtc0ry9y1Ay9b0tPtF-b-S6hD72xKwh5gdMNmBVq1Y](https://www.linkedin.com/in/md-ashiqur-rahman-khan-b475b1316/)" width="180" height="180" style="border-radius: 50%;">
 </div>
 
 <br>
