@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/md-ashiqur-rahman-khan-b475b1316/">
-    <img src="(https://raw.githubusercontent.com/Ashiq-r-khan/Ashiq-r-khan/main/image.png)" width="180" height="180" style="border-radius: 50%;" alt="Ashiqur Rahman Khan">
+    <img src="(https://raw.githubusercontent.com/Ashiq-r-khan/Ashiq-r-khan/main/image.jpg)" width="180" height="180" style="border-radius: 50%;" alt="Ashiqur Rahman Khan">
   </a>
 </div>
 
